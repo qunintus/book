@@ -1,5 +1,7 @@
 # 深度学习入门
 
+# 百度旗下深度学习开源平台
+
 1. 新手入门 [[fit_a_line](fit_a_line/)] [[html](http://book.paddlepaddle.org/fit_a_line)]
 1. 识别数字 [[recognize_digits](recognize_digits/)] [[html](http://book.paddlepaddle.org/recognize_digits)]
 1. 图像分类 [[image_classification](image_classification/)] [[html](http://book.paddlepaddle.org/image_classification)]
